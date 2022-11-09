@@ -1,7 +1,13 @@
-# Change Log
+# Changelog
 
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### 0.0.2 (2022-11-09)
+
+
+### Features
+
+* change to prism-coy ([83d198d](https://github.com/shinokada/rainbow-github-theme/commit/83d198d8d62b2ebc2a52651c472438d25d0867f6))
 
 ## [0.4.1](https://github.com/vivliostyle/themes/compare/@vivliostyle/theme-techbook@0.4.0...@vivliostyle/theme-techbook@0.4.1) (2022-04-20)
 
