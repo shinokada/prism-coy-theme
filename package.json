@@ -1,7 +1,7 @@
 {
   "name": "prism-coy-theme",
-  "description": "Rainbow GitHub theme",
-  "version": "0.0.3",
+  "description": "Prism Coy theme",
+  "version": "0.0.4",
   "author": "Shinichi Okada",
   "scripts": {
     "build": "run-p build:scss build:vivliostyle",
@@ -30,9 +30,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shinokada/rainbow-github-theme"
+    "url": "https://github.com/shinokada/prism-coy-theme"
   },
-  "homepage": "https://github.com/shinokada/rainbow-github-theme",
+  "homepage": "https://github.com/shinokada/prism-coy-theme",
   "keywords": [
     "vivliostyle",
     "vivliostyle-theme"
