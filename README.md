@@ -1,19 +1,11 @@
-# Techbook
-
-[![](https://img.shields.io/npm/v/@vivliostyle/theme-techbook.svg)](https://npmjs.com/package/@vivliostyle/theme-techbook)
-[![npm: total downloads](https://flat.badgen.net/npm/dt/@vivliostyle/theme-techbook)](https://npmjs.com/package/@vivliostyle/theme-techbook)
-![npm: license](https://flat.badgen.net/npm/license/@vivliostyle/theme-techbook)
-
-A techbook (技術同人誌) theme for Vivliostyle.
-
-Source: https://github.com/akabekobeko/env-create-book/tree/master/src/scss
+# Rainbow GitHub Theme
 
 ## Install
 
 ```bash
-npm install --save @vivliostyle/theme-techbook
+npm install --save rainbow-github-theme
 # or
-yarn add @vivliostyle/theme-techbook
+yarn add rainbow-github-theme
 ```
 
 ## Use
@@ -22,7 +14,7 @@ In `vivliostyle.config.js`:
 
 ```js
 module.exports = {
-  theme: '@vivliostyle/theme-techbook',
+  theme: 'rainbow-github-theme',
 };
 ```
 
