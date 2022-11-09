@@ -1,11 +1,11 @@
-# Rainbow GitHub Theme
+# Prism Coy Theme for Vivliostyle
 
 ## Install
 
 ```bash
-npm install --save rainbow-github-theme
+npm install --save prism-coy-theme
 # or
-yarn add rainbow-github-theme
+yarn add prism-coy-theme
 ```
 
 ## Use
@@ -14,10 +14,10 @@ In `vivliostyle.config.js`:
 
 ```js
 module.exports = {
-  theme: 'rainbow-github-theme',
+  theme: 'prism-coy-theme',
 };
 ```
 
 ## License
 
-CC0 1.0
+MIT
