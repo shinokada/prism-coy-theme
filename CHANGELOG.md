@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/shinokada/prism-coy-theme/compare/v0.0.5...v0.0.6) (2022-11-10)
+
+
+### Features
+
+* add img style ([aef0c62](https://github.com/shinokada/prism-coy-theme/commit/aef0c62be7159c1d86ab287fe1c99352898dd327))
+
 ### [0.0.5](https://github.com/shinokada/prism-coy-theme/compare/v0.0.4...v0.0.5) (2022-11-10)
 
 
