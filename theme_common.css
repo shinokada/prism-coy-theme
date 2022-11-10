@@ -566,6 +566,11 @@ nav[role=doc-toc] li a::after {
   order: 2;
 }
 
+img {
+  max-width: 100%;
+  margin: 0.5rem auto;
+}
+
 /* and more... 🖋 */
 
 /*# sourceMappingURL=theme_common.css.map */
