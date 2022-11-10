@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/shinokada/prism-coy-theme/compare/v0.0.4...v0.0.5) (2022-11-10)
+
+
+### Features
+
+* change page-margin-outer and inner in _variables.scss ([5d20e60](https://github.com/shinokada/prism-coy-theme/commit/5d20e60d4c5e3be03220a5577e7f4344e3328cb9))
+
 ### [0.0.4](https://github.com/shinokada/prism-coy-theme/compare/v0.0.3...v0.0.4) (2022-11-09)
 
 ### [0.0.3](https://github.com/shinokada/rainbow-github-theme/compare/v0.0.2...v0.0.3) (2022-11-09)
