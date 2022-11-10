@@ -505,7 +505,7 @@ ol.cite-items li::before {
 @page :left {
   font-family: "Neue Frutiger World", "Verdana", "body", "Hiragino Sans", sans-serif;
   margin-left: 18mm;
-  margin-right: 35mm;
+  margin-right: 18mm;
   @top-center {
     content: env(pub-title);
     font-size: 75%;
@@ -521,7 +521,7 @@ ol.cite-items li::before {
 }
 @page :right {
   font-family: "Neue Frutiger World", "Verdana", "body", "Hiragino Sans", sans-serif;
-  margin-left: 35mm;
+  margin-left: 18mm;
   margin-right: 18mm;
   @top-center {
     content: env(doc-title);
