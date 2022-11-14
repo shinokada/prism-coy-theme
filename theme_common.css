@@ -18,7 +18,7 @@ pre[class*=language-] {
   font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
   font-size: 1em;
   text-align: left;
-  white-space: pre;
+  white-space: pre-wrap;
   word-spacing: normal;
   word-break: normal;
   word-wrap: normal;
@@ -569,6 +569,11 @@ nav[role=doc-toc] li a::after {
 img {
   max-width: 100%;
   margin: 0.5rem auto;
+}
+
+pre {
+  white-space: pre-wrap;
+  /* css-3 */
 }
 
 /* and more... 🖋 */
