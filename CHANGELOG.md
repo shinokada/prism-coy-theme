@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.10](https://github.com/shinokada/prism-coy-theme/compare/v0.0.9...v0.0.10) (2022-11-14)
+
+
+### Features
+
+* add white-space: pre-wrap and overflow: auto ([0d29582](https://github.com/shinokada/prism-coy-theme/commit/0d29582d0abe6f3e7563539f61931d789f00d1c5))
+
 ### [0.0.9](https://github.com/shinokada/prism-coy-theme/compare/v0.0.8...v0.0.9) (2022-11-14)
 
 ### [0.0.8](https://github.com/shinokada/prism-coy-theme/compare/v0.0.7...v0.0.8) (2022-11-14)
