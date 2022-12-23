@@ -1,5 +1,3 @@
-docs/README.md
-
 # Prism Coy Theme for Vivliostyle
 
 ## Install
