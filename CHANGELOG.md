@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.1](https://github.com/shinokada/prism-coy-theme/compare/v0.0.10...v0.1.1) (2023-05-29)
+
+
+### Features
+
+* font-size from 75% to 100% in _media.scss ([309555f](https://github.com/shinokada/prism-coy-theme/commit/309555f54085eeae4a2049d560fce085747b2693))
+
+
+### Bug Fixes
+
+* add docs/README.md ([df67922](https://github.com/shinokada/prism-coy-theme/commit/df67922d77fa64312df4b0325a62713ede127a81))
+* docs/README.md ([19f415e](https://github.com/shinokada/prism-coy-theme/commit/19f415e220ab1d6fa368e6fc83bb6646891ce9d3))
+* docs/README.md ([a75930b](https://github.com/shinokada/prism-coy-theme/commit/a75930bd11a41e24814122a92ecaf59540830581))
+
 ### [0.0.10](https://github.com/shinokada/prism-coy-theme/compare/v0.0.9...v0.0.10) (2022-11-14)
 
 
