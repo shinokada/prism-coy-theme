@@ -7,12 +7,12 @@
   "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
   "author": "Shinichi Okada",
   "inLanguage": "ja",
-  "dateModified": "2022-11-09T03:12:15.322Z",
-  "name": "rainbow-github-theme",
+  "dateModified": "2023-05-29T21:35:23.336Z",
+  "name": "prism-coy-theme",
   "readingOrder": [
     {
       "url": "example/techbook.html",
-      "name": "Brief History of JavaScript"
+      "title": "Brief History of JavaScript"
     }
   ],
   "resources": [],
